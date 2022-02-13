@@ -1,6 +1,9 @@
 # OurGan Pytorch
 
-Is a fork of  https://github.com/williamSYSU/TextGAN-PyTorch where we implemented our own novel archtecture called OurGan (~/models/OurGan_D , ~/models/OurGan_G).
+This is a fork of  https://github.com/williamSYSU/TextGAN-PyTorch where we implemented our own novel archtecture called OurGan (~/models/OurGan_D , ~/models/OurGan_G).
+
+You can read our paper included in this repo at ~/OurGan.pdf
+
 
 ## Requirements
 
@@ -14,13 +17,7 @@ Is a fork of  https://github.com/williamSYSU/TextGAN-PyTorch where we implemente
 
 To install, run `pip install -r requirements.txt`. In case of CUDA problems, consult the official PyTorch [Get Started guide](https://pytorch.org/get-started/locally/).
 
-## Our Paper
-
-We wrote the following paper outlining the design of this architecture.
-
-
-
-## Implemented Models and Original Papers
+## Other Implemented Models and Original Papers
 
 ### General Text Generation
 
