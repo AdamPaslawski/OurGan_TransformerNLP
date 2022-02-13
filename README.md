@@ -2,7 +2,7 @@
 
 This is a fork of  https://github.com/williamSYSU/TextGAN-PyTorch where we implemented our own novel archtecture called OurGan (~/models/OurGan_D , ~/models/OurGan_G).
 
-You can read our paper included in this repo at ~/OurGan.pdf
+You can read our paper here: https://github.com/AdamPaslawski/OurGan_TransformerNLP/blob/main/OurGan.pdf
 
 
 ## Requirements
